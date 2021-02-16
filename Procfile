@@ -1,0 +1,1 @@
+web: gunicorn aiimg.wsgi --log-file -
